@@ -1,0 +1,89 @@
+
+		
+.intro{
+			float: right;
+			padding-top: 10px;
+
+		}
+		.page-header span{
+			font-size: 20px;
+		}
+		.item{
+			background-color: transparent;
+		}
+		.page-header{
+			background-color: #808080;
+			margin: -5px;
+			margin-left: 3px; 
+		}
+		.carousel-header{
+			background-color: green;
+			width: 250px;
+			height: 50px;
+			margin: auto;
+			border-radius: 30px;
+			padding-top: 15px
+		}
+		.carousel-p{
+			color:#00cc00;
+		}
+		.page-home{
+			background-color: red;
+			border-radius: 10px;
+			margin-left: 10px;
+		}
+		.carousel-caption{
+			text-align: center;
+			vertical-align: middle;
+		}
+		#histoId .wrap{
+			border-radius: 3em;
+			border: 5px inset red;
+			margin-top: 30px;
+		}
+		#object{
+			background-color: #003300;
+			border-radius: 10px;
+			font-size: 30px;
+			color: white;
+		}
+		#object ul{
+			list-style: none;
+		}
+		.icon{
+			background-color: #ffff00;
+			border-radius: 10px;
+			margin: 30px
+			padding:40px;
+			width: 100px;
+			height:150px;
+		}
+		.wrap{
+			padding: 20px 20px 20px;
+			border-radius: 10px;
+			width: 100%;
+		}
+		#donations .wrap{
+			border: 2px solid red;
+			margin: 10px 10px 10px 10px;
+		}
+		.gallery{
+			width: 300px;
+			height: 70px;
+			margin: auto;
+			margin-bottom: 30px;
+			border-radius: 3em;
+		}
+		#gallery h2{
+			padding-top: 10px;
+			font-size: 50px;
+		
+		}
+
+		#gallery .ggallery{
+			height: 250px;
+			width: 550px;
+			min-width: 100%;
+			cursor: pointer;
+		}
+		 
